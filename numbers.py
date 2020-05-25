@@ -177,7 +177,28 @@ pokemon = ["nada",
 "Natu",
 "Xatu",
 "Mareep",
-"Flaaffy"
+"Flaaffy",
+"Ampharos",
+"Bellossom",
+"Marill",
+"Azumarill",
+"Sudowoodo",
+"Politoed",
+"Hoppip",
+"Skiploom",
+"Jumpluff",
+"Aipom",
+"Sunkern",
+"Sunflora",
+"Yanma",
+"Wooper",
+"Quagsire",
+"Espeon",
+"Umbreon",
+"Murkrow",
+"Slowking",
+"Misdreavus"
+
 
 ]
 
