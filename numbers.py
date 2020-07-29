@@ -257,7 +257,17 @@ pokemon = ["nada",
 "Blaziken",
 "Mudkip",
 "Marshtomp",
-"Swampert"
+"Swampert",
+"Poochyena",
+"Mightyena",
+"Zigzagoon",
+"Linoon",
+"Wurmple",
+"Silcoon",
+"Beautifly",
+"Cascoon",
+"Dustox",
+"Lotad"
 
 
 ]
