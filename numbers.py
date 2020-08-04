@@ -267,7 +267,17 @@ pokemon = ["nada",
 "Beautifly",
 "Cascoon",
 "Dustox",
-"Lotad"
+"Lotad",
+"Lombre",
+"Ludicolo",
+"Seedot",
+"Nuzleaf",
+"Shiftry",
+"Taillow",
+"Swellow",
+"Wingull",
+"Pelipper",
+"Ralts"
 
 
 ]
