@@ -277,7 +277,27 @@ pokemon = ["nada",
 "Swellow",
 "Wingull",
 "Pelipper",
-"Ralts"
+"Ralts",
+"Kirlia",
+"Gardevoir",
+"Surskit",
+"Masquerain",
+"Shroomish",
+"Breloom",
+"Slakoth",
+"Vigoroth",
+"Slaking",
+"Nincada",
+"Ninjask",
+"Shedinja",
+"Whismur",
+"Loudred",
+"Exploud",
+"Makuhita",
+"Hariyama",
+"Azurill",
+"Nosepass",
+"Skitty"
 
 
 ]
